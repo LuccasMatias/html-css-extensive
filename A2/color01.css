@@ -5,11 +5,13 @@ p {text-align: justify;
     background-color: #F39F5A;
     border-radius: 9%;
     padding: 5%;
-    
+    font-family: 'Allura', cursive;
+    font-size: large;
 }
 
 h1{color: #AE445A;}
-h3{color: #c41437;}
+h3{color: #c41437; font-family: 'Croissant One', cursive;
+}
 
 body{
     background-image: linear-gradient(to top, #451952,#662549,#AE445A);
